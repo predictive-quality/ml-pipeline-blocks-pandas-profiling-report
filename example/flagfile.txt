@@ -1,0 +1,4 @@
+--input_path=./example
+--output_path=./example
+--filename_list=x.fth,y.fth
+--dataset_rows_max=200
